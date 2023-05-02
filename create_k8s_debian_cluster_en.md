@@ -2,7 +2,7 @@
 
 [Questa guida in linguaggio Italiano](./create_k8s_debian_cluster_it.md)
 
-This guide is intended to help you install k8s on debian 11 bullseye.
+This guide is intended to help you to install k8s on debian 11 bullseye.
 
 This guide was written starting from the official Kubernetes pages [Installation](https://kubernetes.io/docs/setup/). There is more than one method to install k8s, this method is based on *kubeadmnin*.
 
